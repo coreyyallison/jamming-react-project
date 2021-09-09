@@ -1,12 +1,12 @@
 # Jamming React Project
 
-##Description:
+## Description:
 This project from Codecademy.com is a website that will give you the option to search for a song by title name/artist/album name and then add it to a playlist named as whatever you choose. Once you are done, it will create the new playlist with associated songs to your actual spotify account to be used later.
 
 ## Purpose: 
 For this project, we are working with class componenets in React to practice setting and changing the state of a component. WE also work with API's to practice working with keys. Most of the CSS was already given from Codecademy.com and the rest came from the started package of React.
 
-##Issues: While I finished all the main requirements, there are still some issues and exta features I am working on at the moment.
+## Issues: While I finished all the main requirements, there are still some issues and exta features I am working on at the moment.
 	1. When you search for a term to start the use of the site, it refreshed back to a blank page (once you verify your account through spotify). If you revisit the site after logging in, your first term search will refresh the page. The goal is to get it to not refresh to a blank page after you login to spotify as well as later if you use the site again.
 	2. An extra feature I have added/working on is the preview audio for each track searched. The only issue I am running into on this one is the visuals of the controls need to be changed. I have looked into a couple different options such as putting in a button and using 'onClick' for the id of the track.
 
